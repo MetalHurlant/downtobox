@@ -1,0 +1,6 @@
+.idea*
+.tox*
+Data/downloads
+MANIFEST
+uptobox.iml
+credentials.py

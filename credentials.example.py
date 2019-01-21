@@ -1,0 +1,1 @@
+payload = {'login': 'my_login', 'password': 'my_password'}
